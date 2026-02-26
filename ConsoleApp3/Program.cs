@@ -10,7 +10,7 @@ namespace ConsoleApp3
     {
         static void Main(string[] args)
         {
-            String 1 "HOLA MUNDO";
+            String valor ="HOLA MUNDO";
         }
     }
 }
